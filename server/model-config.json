@@ -8,35 +8,35 @@
     ]
   },
   "User": {
-    "dataSource": "db",
+    "dataSource": "MongoDB",
     "public": false
   },
   "AccessToken": {
-    "dataSource": "db",
+    "dataSource": "MongoDB",
     "public": false
   },
   "ACL": {
-    "dataSource": "db",
+    "dataSource": "MongoDB",
     "public": false
   },
   "RoleMapping": {
-    "dataSource": "db",
+    "dataSource": "MongoDB",
     "public": false
   },
   "Role": {
-    "dataSource": "db",
+    "dataSource": "MongoDB",
     "public": false
   },
   "user": {
-    "dataSource": "db",
+    "dataSource": "MongoDB",
     "public": true
   },
   "team": {
-    "dataSource": "db",
+    "dataSource": "MongoDB",
     "public": false
   },
   "project": {
-    "dataSource": "db",
+    "dataSource": "MongoDB",
     "public": true
   }
 }

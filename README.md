@@ -254,3 +254,8 @@ Start the server (`node .`) and open [`localhost:3000`](http://localhost:3000) i
 ---
 
 [More LoopBack examples](https://loopback.io/doc/en/lb3/Tutorials-and-examples.html)
+
+
+lb model ==> to create model
+lb datasource ==> to create Datasource in which data is saved
+lb relation ==> to create relation
